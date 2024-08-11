@@ -1,3 +1,3 @@
 # kalmanpy
 
-Describe your project here.
+Kalman filter implementation in Python.
